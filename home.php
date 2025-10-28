@@ -14,7 +14,7 @@
             <a href="view_standings.php">📊 Standings</a>
             <a href="view_teams.php">👥 Teams</a>
             <a href="tournaments.php">🎯 Tournaments</a>
-            
+            <a href="index.html" class="logout-btn">🚪 Logout</a>
         </div>
 
         <div class="card">
@@ -178,4 +178,5 @@
         </div>
     </div>
 </body>
+
 </html>
