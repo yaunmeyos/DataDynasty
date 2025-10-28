@@ -532,3 +532,15 @@ html {
         font-size: 14px;
     }
 }
+.logout-btn {
+    background-color: #dc3545;
+    color: white;
+    padding: 8px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-left: auto;
+}
+
+.logout-btn:hover {
+    background-color: #c82333;
+}
