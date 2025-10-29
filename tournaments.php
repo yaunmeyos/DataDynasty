@@ -15,7 +15,7 @@
             <a href="view_teams.php">👥 View Teams</a>
         </div>
 
-        <!-- CURRENT TOURNAMENT MOVED TO TOP -->
+
         <div class="card">
             <h2>🎯 Active Tournament</h2>
             <?php
@@ -35,7 +35,6 @@
             <?php endif; ?>
         </div>
 
-        <!-- CREATE TOURNAMENT MOVED TO BOTTOM -->
         <div class="card">
             <h2>Create New Tournament</h2>
             <form action="create_tournament.php" method="POST">
@@ -76,4 +75,5 @@
         </div>
     </div>
 </body>
+
 </html>
