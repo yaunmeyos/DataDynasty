@@ -18,7 +18,7 @@
             <a href="tournaments.php">🎯 Tournaments</a>
         </div>
 
-        <!-- TEAM RANKINGS WITH ANCHOR -->
+
         <div class="card" id="team-rankings">
             <h2>🏅 Team Rankings</h2>
             <table>
@@ -57,7 +57,7 @@
             </table>
         </div>
 
-        <!-- ALL MATCHES WITH ANCHOR -->
+    
         <div class="card" id="all-matches">
             <h2>🎮 All Matches</h2>
             <table>
@@ -94,7 +94,6 @@
             </table>
         </div>
 
-        <!-- ALL PLAYERS WITH ANCHOR -->
         <div class="card" id="all-players">
             <h2>👥 All Players</h2>
             <table>
@@ -128,7 +127,7 @@
             </table>
         </div>
 
-        <!-- QUICK NAVIGATION -->
+
         <div class="card">
             <h2>🔍 Quick Navigation</h2>
             <div class="quick-actions">
@@ -140,4 +139,5 @@
         </div>
     </div>
 </body>
+
 </html>
