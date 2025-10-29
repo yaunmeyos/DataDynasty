@@ -19,7 +19,7 @@ if ($_POST) {
             $_POST['game_uid'] ?: NULL,
             $player_id
         ]);
-        header("Location: view_standings.php");
+        header("Location: edit_player.php");
         exit();
     }
 }
@@ -79,4 +79,5 @@ $teams = $database->query("
         </div>
     </div>
 </body>
+
 </html>
